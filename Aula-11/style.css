@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.corpo {
+    background-color: blueviolet;
+    margin: auto;
+    width: 33%;
+
+    height: 10%;
+    left: 10%;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+
+h2 {
+    color: mediumaquamarine;
+}
