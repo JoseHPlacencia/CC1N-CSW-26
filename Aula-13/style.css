@@ -1,0 +1,29 @@
+body {
+    margin: 10%;
+}
+
+.conteiner {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+
+    gap: 1em;
+}
+
+.primeiro {
+    background-color: antiquewhite;
+}
+
+.segundo {
+    background-color: aquamarine;
+}
+
+.terceiro {
+    background-color: brown;
+}
+
+p {
+    padding: 1em;
+    border-radius: 1em;
+}
